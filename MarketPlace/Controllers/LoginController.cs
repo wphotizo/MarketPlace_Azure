@@ -69,8 +69,6 @@ namespace MarketPlace.Controllers
             tblUser user = new tblUser();
       
          
-
-         
             if (file != null)
             {
           
